@@ -1,0 +1,1 @@
+webpackJsonp([0],[,function(e,o,c){"use strict";Object.defineProperty(o,"__esModule",{value:!0});var n=c(0);c(2);document.body.onclick=(()=>{}),console.log(n.a)},function(e,o,c){"use strict"}],[1]);

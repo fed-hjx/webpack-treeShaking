@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(a,c,n){"use strict";c.a={a:6}}]);
